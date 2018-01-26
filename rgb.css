@@ -1,0 +1,108 @@
+body{
+	width: 100%;
+	background-color: #000;
+	margin:0%; 
+	position: absolute;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+.nav-bar-main{
+	width: 100%;
+	color: #000;
+	text-align: center;
+	background-color:#6d6b6a;
+	float: left;
+	margin: 0% 0% 0% 0%;
+	padding: 0% 0% 0% 0%;
+}
+.first-line{
+	text-align:center;
+	font-size:2em;
+	color: #000;
+	margin: 0% 0% 0% 0%;
+	padding: 0% 0% 0% 0%;
+
+}
+.second-line{
+	text-align: center;
+	font-size:2.3em;
+	margin: 0% 0% 0% 0%;
+	padding: 0% 0% 0% 0%;
+}
+
+.nav-bar-sec{
+	width: 100%;
+	background-color:#cdcdf9;
+	float: left;
+	margin: 0% 0% 0% 0%;
+	padding:0%;
+	height: 30px;
+	
+}
+
+.new-colors{
+	
+	font-size: 1em;
+	margin: 0.5% 0% 0% 20%;
+	padding: 0% 0% 0% 0%; 
+	float: left; 
+	text-decoration:none;
+	color: #000;  
+	
+}
+.selected{
+	background-color: #6d6b6a;
+	margin: 0% 0% 0% 0%;
+	padding: 0% 0% 0% 0%;
+	
+}
+.easy{
+	
+	font-size: 1em;
+	margin: 0% 2% 0% 0%;
+	padding: 0.4% 0.5% 0.3% 0.5%;
+	float: right;
+	text-decoration:none;
+	color: #000;
+
+}
+
+.hard{
+	font-size: 1em;
+	margin: 0% 20% 0% 0%;
+	padding: 0.4% 0.5% 0.3% 0.5%; 
+	float: right;
+	text-decoration:none;
+	color: #000;
+}
+
+.status{
+	font-size: 1em;
+	float:left;
+	margin: 0.5% 0% 0% 22%;
+	padding: 0% 0% 0% 0%;
+
+}
+
+.color-variations{
+	width: 40%;
+	margin: 7% 30%;
+	padding: 0% 0% 0% 0%;
+	background-color: #000;
+	float: left;
+	border-radius: 2%;
+	
+}
+.color{
+	width: 5%;
+	margin: 2% 5% ;
+	padding: 9%;
+	color: rgba(225,  225,  225,0);
+	float: left;
+	border-radius: 20%;
+	background-color: #fff;
+}
+
+
+
+
